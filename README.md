@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/abdul-mannan-163337152/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/abdulmannandev/">
+  <a href="https://www.instagram.com/scriptedbyabduljs/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://x.com/abdulmannandev?s=21&t=2P21Jws14UU_kdX_lISpmQ">
