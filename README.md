@@ -1,4 +1,12 @@
-<pre> Initializing Node.js Runtime... Runtime is ready 🚀 To contact me, please send me a message to `<a href="mailto:mannanabdul417@gmail.com">mannanabdul417@gmail.com</a>`. For more details, please visit <a href="https://www.upwork.com/freelancers/~01232ede4af22a157e">Upwork</a> MacBook-Pro:~ abdulmannan$ cat ./main.ts </pre>
+<pre>
+  Initializing Node.js Runtime...
+  
+  Runtime is ready
+  To contact me, please send me a message to `<a href="mailto:mannanabdul417@gmail.com">mannanabdul417@gmail.com</a>`.
+  For more details, please visit <a href="https://www.upwork.com/freelancers/~01232ede4af22a157e">Upwork</a>
+  MacBook-Pro:~ abdulmannan$ cat ./main.ts </pre>
+
+```typescript
 
 type Status = {
   learning: boolean;
@@ -141,5 +149,5 @@ const me = new Developer(
 
 // Run 🚀
 console.log(me);
-
+```
 <pre> MacBook-Pro:~ abdulmannandev$ </pre>
