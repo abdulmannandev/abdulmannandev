@@ -1,3 +1,5 @@
+<pre> Initializing Node.js Runtime... Runtime is ready 🚀 To contact me, please send me a message to `<a href="mailto:mannanabdul417@gmail.com">mannanabdul417@gmail.com</a>`. For more details, please visit <a href="https://www.upwork.com/freelancers/~01232ede4af22a157e">Upwork</a> MacBook-Pro:~ abdulmannan$ cat ./main.ts </pre>
+
 type Status = {
   learning: boolean;
   openToWork: boolean;
@@ -50,10 +52,10 @@ const me = new Developer(
   'Full Stack Developer',
   '5+ years',
   new Contact(
-    'abdulmannan.dev@gmail.com',
-    'https://linkedin.com/in/your-profile',
-    'https://github.com/your-username',
-    'https://your-portfolio.com'
+    'mannanabdul417@gmail.com',
+    '[LinkedIn](https://www.linkedin.com/in/abdul-mannan-163337152/)',
+    '[GitHub](https://github.com/abdulmannandev)',
+    '[Upwork](https://www.upwork.com/freelancers/~01232ede4af22a157e)'
   ),
   new Skills(
     // Frontend
